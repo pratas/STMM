@@ -1,7 +1,7 @@
 # STMM
-Substitutional Tolerant Markov Models for relative compression of genomic sequences
+Auxiliar materials for "Substitutional Tolerant Markov Models for relative compression of genomic sequences".
 
-# INSTALL
+## INSTALLATION
 Run the following on a Linux environment:
 <pre>
 git clone https://github.com/pratas/STMM.git
