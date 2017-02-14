@@ -7,7 +7,9 @@ Run the following on a Linux environment:
 git clone https://github.com/pratas/STMM.git
 cd STMM/
 </pre>
-then, run scripts:
+
+## RUN
+Run the following scripts:
 <pre>
 . runSmallBidirection.sh
 . runRelativeBidirection.sh
