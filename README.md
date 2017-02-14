@@ -11,5 +11,7 @@ then, run scripts:
 <pre>
 . runSmallBidirection.sh
 . runRelativeBidirection.sh
+. runBirds.sh
+. runPrimates.sh
 </pre>
 
